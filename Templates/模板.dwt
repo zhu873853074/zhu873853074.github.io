@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="../Style/mh.css"/>
+<link rel="stylesheet" type="text/css" href="../Style/bj.css"/>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>碧水园房产</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<div id="wrapper">
+    	<div id="header">
+        	<div id="logo">
+            	<a href="../首页.html"><img src="../首页图片/300X300.png" /></a>
+            </div>
+            <div id="maun">
+            	<ul>
+                	<li><a href="../首页.html" >首页</a></li>
+                    <li><a href="../关于我们.html" >关于我们</a></li>
+                    <li><a href="../产品介绍.html" >产品与服务</a></li>
+                    <li><a href="../新闻中心.html" >新闻中心</a></li>
+                    <li><a href="../联系我们.html" >联系我们</a></li>
+                    <li><a href="../加入我们.html" >加入我们</a></li>
+                </ul>
+            </div>
+            <div id="search">
+            	<input type="text" style="border-radius:45px; border:1px solid #CCC; height:30px; width:130px; padding-left:20px;"/>
+                <a href="#"><img src="../首页图片/搜索.png" align="absmiddle"/></a>
+                <span>中/EN</span>
+            </div>
+        </div>
+        <div class="cleaner"></div>
+        <div id="pagebody">
+        <!-- TemplateBeginEditable name="内容" -->
+		
+            	<div id="banner">
+                	
+                </div>
+        
+		<!-- TemplateEndEditable -->
+        </div>
+        <div class="cleaner"></div>
+        <div id="footer">
+        	<div id="footer-yi">
+            	<p><a href="../联系我们.html">联系我们&nbsp;</a>|<a href="#">&nbsp;特别声明&nbsp;</a>|<a href="../关于我们.html">&nbsp;关于我们</a></p>
+                <p>湖南长沙碧水园物业发展公司版权所有 湘ICP备案05128547号-5</p>
+                <p><a href="#">法律声明</a> · <a href="#">网站地图</a> ·<a href="#"> 技术支持</a></p>
+            </div
+            <div id="footer-er">
+                <img src="../img/2.jpg" />
+                <p>官方二维码</p>
+            </div>
+        </div>
+</div>
+<body>
+
+</body>
+</html>
